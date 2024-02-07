@@ -9,11 +9,11 @@ This predictive analysis holds significant relevance for any business online com
 The repository contains the Python Jupyter notebook and the csv file. The project has been developed using some of the most common Python libraries, such as Pandas, Numpy, Sklearn, Statsmodels, Matplotlib, Seaborn.
 
 The structure of the project is the following:
-  -importing relevant libraries
-  -data preprocessing
-  -Logistic Regression Model
-  -K-Nearest Neighbors Model
-  -Support Vector Machines Model
-  -Decision Trees Model
-  -Random Forests Model
-  -Results interpretation
+  * importing relevant libraries
+  * data preprocessing
+  * Logistic Regression Model
+  * K-Nearest Neighbors Model
+  * Support Vector Machines Model
+  * Decision Trees Model
+  * Random Forests Model
+  * Results interpretation
