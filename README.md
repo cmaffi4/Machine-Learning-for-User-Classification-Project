@@ -7,3 +7,13 @@ Our analysis will delve into various student engagement metrics, encompassing fa
 This predictive analysis holds significant relevance for any business online company, enabling strategic decision-making for targeted advertisements and exclusive offers. By identifying potential customers, we can efficiently allocate our budget towards users likely to convert to the paid plan, ultimately contributing to an increase in overall revenue.
 
 The repository contains the Python Jupyter notebook and the csv file. The project has been developed using some of the most common Python libraries, such as Pandas, Numpy, Sklearn, Statsmodels, Matplotlib, Seaborn.
+
+The structure of the project is the following:
+  -importing relevant libraries
+  -data preprocessing
+  -Logistic Regression Model
+  -K-Nearest Neighbors Model
+  -Support Vector Machines Model
+  -Decision Trees Model
+  -Random Forests Model
+  -Results interpretation
