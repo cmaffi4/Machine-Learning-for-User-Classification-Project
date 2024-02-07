@@ -5,14 +5,14 @@ We are embarking on a Machine Learning for User Classification project, focusing
 The repository contains the Python Jupyter notebook and the csv file. The project has been developed using some of the most common Python libraries, such as Pandas, Numpy, Sklearn, Statsmodels, Matplotlib, Seaborn.
 
 The structure of the project is the following:
-  * importing relevant libraries
-  * data preprocessing
-  * Logistic Regression Model
-  * K-Nearest Neighbors Model
-  * Support Vector Machines Model
-  * Decision Trees Model
-  * Random Forests Model
-  * Results interpretation
+  * Importing relevant libraries.
+  * Data preprocessing.
+  * Logistic Regression Model.
+  * K-Nearest Neighbors Model.
+  * Support Vector Machines Model.
+  * Decision Trees Model.
+  * Random Forests Model.
+  * Results interpretation.
 
 Our analysis will delve into various student engagement metrics, encompassing factors like the number of days students spend on our platform, the minutes of content they watch, and the count of courses they initiate. The objective is to employ these features to train multiple machine learning models, namely logistic regression, k-nearest neighbors, support vector machines, decision trees, and random forests.
 
